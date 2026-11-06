@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Provided files
+data/*.csv
+*.pdf
+assessment_readme.md
+
+# Generated outputs
+scorer_results/
+
+# Personal notes
+notes.md
